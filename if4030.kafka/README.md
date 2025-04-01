@@ -93,3 +93,63 @@ Les catégories suivantes sont ignorées dans l'analyse :
 - PRP : Prépositions
 - CON : Conjonctions
 - UNK : Catégorie inconnue
+
+## Résultats
+
+Des résultats sont affichés dans le dossier output à la racine du projet. Comparons par exemple les adjectifs les plus utlisés dans le texte de Balzac et Zola :
+
+### Balzac : Etude de femme
+
+Category: ADJ
+---------------------------
+tout                 8
+carolin              5
+vertueux             4
+difficile            3
+fait                 2
+plein                2
+lu                   2
+pris                 2
+immobile             2
+modeste              2
+social               1
+inconvenant          1
+magique              1
+subit                1
+bleu                 1
+vrai                 1
+matinal              1
+fatal                1
+cis                  1
+atteint              1
+
+### Zola : Chapitre I de Germinal
+
+
+Category: ADJ
+---------------------------
+rare                 3
+pris                 3
+tendu                3
+nouvelle             3
+tout                 3
+joli                 2
+plein                2
+mis                  2
+repu                 1
+gigantesque          1
+triste               1
+connu                1
+saignant             1
+court                1
+immobile             1
+bleu                 1
+douloureux           1
+assis                1
+endormi              1
+su                   1
+
+
+### Remarques
+
+On remarque ainsi que Balzac utilise plus d'adjectifs que Zola avec des mots plus recherchés comme "carolin" et "vertueux" alors que Zola utilise des adjectifs plus simples comme "rare" et "tendu".
