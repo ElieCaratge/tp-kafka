@@ -1,6 +1,9 @@
 {
     "name": "Existing Dockerfile",
-    "image": "gitlab-research.centralesupelec.fr:4567/my-docker-images/docker-openvscode-server-kafka:latest",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": "."
+    },
     "containerUser": "root",
     "remoteUser": "root",
     "customizations": {
