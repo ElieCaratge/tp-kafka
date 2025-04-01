@@ -1,0 +1,15 @@
+{
+    "name": "Existing Dockerfile",
+    "image": "gitlab-research.centralesupelec.fr:4567/my-docker-images/docker-openvscode-server-kafka:latest",
+    "containerUser": "root",
+    "remoteUser": "root",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "vscjava.vscode-java-pack",
+                "GitHub.copilot",
+                "saoudrizwan.claude-dev"
+            ]
+        }
+    }
+}
