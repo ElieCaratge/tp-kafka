@@ -3,3 +3,4 @@ FROM gitlab-research.centralesupelec.fr:4567/my-docker-images/docker-openvscode-
 USER root
 
 RUN echo "export PATH=$PATH:/opt/kafka/bin" >> /config/.zshrc
+RUN echo "export PATH=$PATH:/opt/kafka/bin" >> /config/.bashrc
