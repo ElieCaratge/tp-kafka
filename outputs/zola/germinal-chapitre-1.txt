@@ -1,0 +1,232 @@
+===== TOP 20 WORDS BY CATEGORY =====
+
+Category: ADJ:ind
+---------------------------
+chaque               4
+
+Category: VER
+---------------------------
+avoir                81
+être                 45
+taire                20
+pouvoir              14
+luire                12
+sortir               9
+faire                9
+sentir               7
+savoir               7
+dire                 7
+terrer               7
+voir                 7
+cracher              7
+fondre               7
+aller                6
+devoir               6
+falloir              6
+pendre               5
+regarder             5
+reprendre            5
+
+Category: PRE
+---------------------------
+de                   157
+d                    76
+dans                 23
+sans                 15
+par                  15
+pour                 15
+sur                  14
+avec                 8
+sous                 7
+jusqu                5
+depuis               5
+vers                 4
+plein                3
+jusque               1
+aube                 1
+chez                 1
+
+Category: PRO:per
+---------------------------
+le                   111
+il                   89
+les                  84
+la                   77
+l                    56
+s                    46
+en                   33
+on                   27
+t                    22
+je                   21
+se                   19
+m                    19
+me                   18
+ils                  11
+te                   10
+j                    9
+non                  7
+vous                 4
+ou                   3
+elle                 2
+
+Category: ADJ
+---------------------------
+rare                 3
+pris                 3
+tendu                3
+nouvelle             3
+tout                 3
+joli                 2
+plein                2
+mis                  2
+repu                 1
+gigantesque          1
+triste               1
+connu                1
+saignant             1
+court                1
+immobile             1
+bleu                 1
+douloureux           1
+assis                1
+endormi              1
+su                   1
+
+Category: PRO:ind
+---------------------------
+un                   64
+une                  54
+tout                 19
+autre                5
+autres               4
+rien                 4
+toutes               2
+aucune               2
+toute                1
+telle                1
+uns                  1
+
+Category: PRO:dem
+---------------------------
+c                    16
+ce                   13
+cela                 2
+celui                1
+celle                1
+celles               1
+ceux                 1
+
+Category: ADJ:pos
+---------------------------
+tes                  2
+ta                   1
+
+Category: NOM
+---------------------------
+ne                   38
+pas                  28
+son                  22
+e                    21
+sa                   17
+fosse                14
+homme                14
+an                   12
+plus                 11
+vieux                11
+gros                 11
+si                   11
+main                 10
+g                    10
+charretier           10
+vent                 9
+cheval               8
+o                    8
+chemin               8
+berline              8
+
+Category: ART:def
+---------------------------
+du                   38
+au                   21
+aux                  5
+
+Category: ADJ:int
+---------------------------
+quelle               1
+
+Category: ONO
+---------------------------
+ah                   6
+hein                 3
+dehors               2
+oh                   1
+bah                  1
+comment              1
+bon                  1
+
+Category: PRO:pos
+---------------------------
+tienne               16
+ses                  14
+leur                 9
+mes                  2
+leurs                2
+tiens                1
+siens                1
+votre                1
+
+Category: ADV
+---------------------------
+ne                   21
+yu                   18
+oui                  11
+r                    10
+encore               8
+tant                 6
+alors                6
+enfin                5
+seulement            5
+aussi                4
+jamais               3
+ainsi                3
+beaucoup             3
+loin                 2
+toujours             2
+brusquement          2
+lentement            2
+hier                 2
+ter                  2
+partout              2
+
+Category: ADJ:dem
+---------------------------
+cette                9
+ces                  3
+
+Category: ART:ind
+---------------------------
+des                  40
+
+Category: PRO:rel
+---------------------------
+que                  32
+qui                  23
+qu                   17
+dont                 7
+quoi                 4
+lequel               1
+auquel               1
+
+Category: ADJ:num
+---------------------------
+deux                 14
+trois                7
+six                  7
+cinq                 5
+huit                 4
+dix                  4
+quinze               1
+neuf                 1
+treize               1
+vingt                1
+cents                1
