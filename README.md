@@ -1,4 +1,10 @@
-# docker-openvscode-server-3if4030
+# TP Kafka
+
+Elie Caratgé & Antoine Chéneau
+
+## Word processing documentation
+
+See [if3040.kafka/README](./if4030.kafka/README.md)
 
 ## What
 
@@ -23,4 +29,3 @@ The initial project is also included.
   
   `docker run -p 3000:3000 -v "$(pwd):/config"
     gitlab-research.centralesupelec.fr:4567/my-docker-images/docker-openvscode-server-kafka`
-
